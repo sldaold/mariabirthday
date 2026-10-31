@@ -230,6 +230,7 @@ body {
     cursor: pointer;
     z-index: 2;
     text-decoration: none;
+    transition: 0.5s;
 }
 .gift-img {
     width: 80px;
