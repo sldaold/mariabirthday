@@ -9,7 +9,7 @@
 
 
 body {
-    background: url('src/background.png');
+    background: url('/src/background.png');
     background-repeat:no-repeat;
     background-size: cover;
 
